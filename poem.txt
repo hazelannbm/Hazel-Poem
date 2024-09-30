@@ -9,3 +9,5 @@ Indigo
 Violet
 
 These are the colors of the rainbow.
+
+I love the rainbow.
